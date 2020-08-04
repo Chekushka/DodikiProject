@@ -1,0 +1,344 @@
+fileFormatVersion: 2
+guid: 07b3d4b3944a03842a5b3907427750a9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7622704328958369804
+    second: afkfight_0
+  - first:
+      213: -5198321586067496215
+    second: afkfight_1
+  - first:
+      213: 1280886214878394670
+    second: afkfight_2
+  - first:
+      213: 3812525181285941975
+    second: afkfight_3
+  - first:
+      213: 4988705761867481781
+    second: afkfight_4
+  - first:
+      213: -6207797414438783228
+    second: afkfight_5
+  - first:
+      213: 8213376520655098177
+    second: afkfight_6
+  - first:
+      213: 3821135415919814863
+    second: afkfight_7
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: afkfight_0
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 187
+        width: 275
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00656b433949c960800000000000000
+      internalID: 7622704328958369804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afkfight_1
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 187
+        width: 322
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 1, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2a3323f0adbd7b0800000000000000
+      internalID: -5198321586067496215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afkfight_2
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 157
+        width: 156
+        height: 315
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 31, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -41.977, y: 157.5}
+        - {x: -78, y: 152.25221}
+        - {x: -78, y: -126.5}
+        - {x: 78, y: -126.5}
+        - {x: 78, y: 157.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e29758bd93f96c110800000000000000
+      internalID: 1280886214878394670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afkfight_3
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 157
+        width: 175
+        height: 336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 31, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 38.134354, y: 136.10979}
+        - {x: 34.335526, y: 139.908}
+        - {x: 60.927322, y: 115.21958}
+        - {x: 68.52498, y: 84.833824}
+        - {x: 87.5, y: 79.1365}
+        - {x: 87.5, y: 86.73293}
+        - {x: 87.5, y: 126.614235}
+        - {x: 62.826733, y: 168}
+        - {x: 55.22908, y: 168}
+        - {x: -20.74748, y: 168}
+        - {x: -60.635174, y: 138.0089}
+        - {x: -56.836346, y: 77.23738}
+        - {x: -53.037518, y: 73.43916}
+        - {x: -87.22697, y: 58.24629}
+        - {x: -87.5, y: -141}
+        - {x: 62.5, y: -141}
+        - {x: 81.82088, y: -158.25223}
+        - {x: 72.5, y: -118}
+        - {x: 53.329666, y: -61.39763}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d2c7c7e37fc8e430800000000000000
+      internalID: 3812525181285941975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afkfight_4
+      rect:
+        serializedVersion: 2
+        x: 1997
+        y: 160
+        width: 156
+        height: 315
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 3, y: 25, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b24e0985717b3540800000000000000
+      internalID: 4988705761867481781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afkfight_5
+      rect:
+        serializedVersion: 2
+        x: 2337
+        y: 157
+        width: 175
+        height: 336
+      alignment: 9
+      pivot: {x: 0.47620496, y: 0.50000006}
+      border: {x: 0, y: 31, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407b9c2542979d9a0800000000000000
+      internalID: -6207797414438783228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afkfight_6
+      rect:
+        serializedVersion: 2
+        x: 2907
+        y: 178
+        width: 325
+        height: 284
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 1, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1415e20ed66cbf170800000000000000
+      internalID: 8213376520655098177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afkfight_7
+      rect:
+        serializedVersion: 2
+        x: 3409
+        y: 175
+        width: 273
+        height: 284
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 4, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc8a0906a66670530800000000000000
+      internalID: 3821135415919814863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
